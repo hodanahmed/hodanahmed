@@ -20,9 +20,9 @@
 ## <a href="https://hodantech.medium.com/">📚</a> My Blog posts
 - <a href="https://hodantech.medium.com/my-junior-software-engineer-journey-with-makers-4b497e8f031b">How I got into tech through an apprenticeship</a> 👩🏾‍🎓
 - <a href="https://hodantech.medium.com/how-i-passed-aws-certified-cloud-practitioner-exam-859104876751"> How I passed my AWS Certified Cloud Practitioner Exam </a> 🧐
-
+- <a href="https://awstip.com/how-to-create-aws-ecr-lifecycle-policies-f3baacca816"> How to create AWS ECR Lifecycle Policies </a> 👷
 ## Social Media
 <a href="https://www.linkedin.com/in/hodan-ahmed/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.twitter.com/hodantech">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.hodantech.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
-<a href="https://www.instagram.com/hodantech/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://hodantech.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://www.instagram.com/hodantech/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
