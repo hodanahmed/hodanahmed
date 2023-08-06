@@ -3,8 +3,8 @@
 ## About me 
 - Backend Software Engineer @ NewsUK.
 - Graduated from Makers Academy as an apprentice. 
-- In progress in becoming an  AWS Certified  Developer Associate.
-- Love to help out my community. Contributed to networks such as <a href="https://www.somalisintech.com/">Somalis In Tech</a>. Was a panelist for one of their events to inform others about pathways in to tech. [Check out Youtube Livestream here 📺](https://www.youtube.com/watch?v=exT9C3NUEIM&list=PLdRG09BrdDbJEtKhnsb7ofT8YExlNXrh7&index=3)
+- In progress in becoming an AWS Certified Developer Associate.
+- Love to help out in my community. Contributed to networks such as <a href="https://www.somalisintech.com/">Somalis In Tech</a>. Was a panelist for one of their events to inform others about pathways in to tech. [Recorded Livestream on Youtube📺](https://www.youtube.com/watch?v=exT9C3NUEIM&list=PLdRG09BrdDbJEtKhnsb7ofT8YExlNXrh7&index=3)
 ## 🥞 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
