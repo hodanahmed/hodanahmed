@@ -1,7 +1,7 @@
 # Hi, I'm Hodan! 👋🏾 👩🏾‍💻
 
 ## About me 
-- Backend Software Engineer @ NewsUK.
+- Fullstack Software Engineer @ Zoopla.
 - Graduated from Makers Academy as an apprentice. 
 - In progress in becoming an AWS Certified Developer Associate.
 - Love to help out in my community. Contributed to networks such as <a href="https://www.somalisintech.com/">Somalis In Tech</a>. Was a panelist for one of their events to inform others about pathways in to tech. [Recorded Livestream on Youtube📺](https://www.youtube.com/watch?v=exT9C3NUEIM&list=PLdRG09BrdDbJEtKhnsb7ofT8YExlNXrh7&index=3)
